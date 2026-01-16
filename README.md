@@ -27,16 +27,6 @@ Projeto criado com foco em aprendizado de comunicação em tempo real utilizando
 
 ---
 
-## 📁 Estrutura do projeto
-
-Chat_TempoReal/
-├─ app.py
-├─ requirements.txt
-└─ templates/
-   └─ index.html
-
----
-
 ## ▶️ Como executar o projeto
 
 1. Clonar o repositório  
