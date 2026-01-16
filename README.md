@@ -17,6 +17,7 @@ Eventlet
 HTML e JavaScript
 
 📁 Estrutura do projeto
+
 Chat_TempoReal/
 ├── app.py
 ├── requirements.txt
