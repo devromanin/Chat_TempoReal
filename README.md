@@ -1,4 +1,4 @@
-# 🗨️ Chat em Tempo Real com Flask + SocketIO
+Chat em Tempo Real com Flask + SocketIO
 
 Aplicação simples de chat em tempo real desenvolvida com Flask e Flask-SocketIO. Permite que vários usuários troquem mensagens instantaneamente através do navegador.
 
@@ -6,7 +6,7 @@ Projeto criado com foco em aprendizado de comunicação em tempo real utilizando
 
 ---
 
-## 🚀 Funcionalidades
+Funcionalidades
 
 - Comunicação em tempo real
 - Backend em Flask
@@ -16,7 +16,7 @@ Projeto criado com foco em aprendizado de comunicação em tempo real utilizando
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+Tecnologias utilizadas
 
 - Python 3
 - Flask
@@ -27,7 +27,7 @@ Projeto criado com foco em aprendizado de comunicação em tempo real utilizando
 
 ---
 
-## ▶️ Como executar o projeto
+Como executar o projeto
 
 1. Clonar o repositório  
 git clone https://github.com/devromanin/Chat_TempoReal.git  
@@ -46,7 +46,7 @@ http://localhost:5000
 
 ---
 
-## 🧪 Como testar o chat
+Como testar o chat
 
 - Abra o endereço da aplicação em duas abas do navegador
 - Envie uma mensagem em uma aba
@@ -54,7 +54,7 @@ http://localhost:5000
 
 ---
 
-## 🧠 Funcionamento da aplicação
+Funcionamento da aplicação
 
 - O Flask é responsável por servir a página HTML
 - O Flask-SocketIO gerencia a comunicação em tempo real
