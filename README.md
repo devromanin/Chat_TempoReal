@@ -5,7 +5,6 @@ Aplicação simples de chat em tempo real usando Flask e Flask-SocketIO, permiti
 Projeto focado em aprendizado de comunicação em tempo real com WebSockets.
 
 🚀 Funcionalidades
-
 Chat em tempo real
 
 Backend em Flask
